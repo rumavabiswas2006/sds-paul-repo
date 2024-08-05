@@ -1,5 +1,5 @@
-{
-    "files.associations": {
-        "stdio.h": "c"
-    }
+#include<stdio.h>
+intmain(){
+printf("Hello World") 
+return 0;
 }
